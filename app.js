@@ -67,7 +67,7 @@ const mailOptions = {
     to:"lariihstay@gmail.com",
     subject:"assunto do email",
     text:"mensagem em formato texto",
-    html:"<h1>mensagem em formato HTML<h1>"
+    html:"<h1>Atividade de PSW concluido com sucesso<h1>"
 };
 
 transporter.sendMail(mailOptions, (error, indo) => {
