@@ -34,7 +34,7 @@ let transporter = nodemailer.createTransport({
     secure:true,    //true => conexão inicia já criptografada(TLS)
     auth:{
         user:"lariihstay@gmail.com",
-        pass:"uhcq ydlw zicp wkot"
+        pass:"davd wsct dgyr jrdn"
     }
     // ,
     // tls: {
